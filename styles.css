@@ -1,0 +1,19 @@
+.highlight {
+    background-color: yellow;
+}
+.underline {
+    text-decoration: underline;
+}
+.bold {
+    font-weight: bold;
+}
+.visible{
+    display: block;
+}
+.hidden{
+    display: none;
+}
+.disable{
+    pointer-events: none;
+    color: gray;
+}
